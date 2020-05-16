@@ -53,3 +53,21 @@ export const Button = styled.button`
         background: green;
     }
 `
+
+export const Loading = styled.div`
+    margin: auto;
+    font-size: 48px;
+    font-weight: bold;
+
+`
+
+export const Error = styled.div`
+
+    margin: 30px auto;
+
+    h1{
+        font-size: 48px;
+        
+    }
+
+`

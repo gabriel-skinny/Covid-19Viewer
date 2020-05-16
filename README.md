@@ -1,5 +1,5 @@
 # Covid-19 Viewer
-Um site que mostra informações sobre o corona virus no país desejado
+Um site que consome a api do covid-19 e mostra informações sobre o corona virus no país desejado
 
 ## Preview
 
